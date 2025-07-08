@@ -4,6 +4,12 @@ Ajoute la commande `push` en CLI pour Git.
 
 ![Description de l’image](./SINJ.jpg)
 
+## Installation
+
+```bash
+npm install -g @mbeaujar/push-sh
+```
+
 ## Utilisation
 
 ```bash
@@ -15,12 +21,6 @@ Cela fait :
 1. `git add .`
 2. `git commit -m "message de commit"`
 3. `git push`
-
-## Installation
-
-```bash
-npm install -g push-cli
-```
 
 ## Prérequis
 
