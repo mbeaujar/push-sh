@@ -1,4 +1,4 @@
-# push-cli
+# push-sh
 
 Ajoute la commande `push` en CLI pour Git.
 
