@@ -1,6 +1,6 @@
 {
   "name": "@mbeaujar/push-sh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "push": "./gitpush.js"
   },
