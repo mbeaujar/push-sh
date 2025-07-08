@@ -1,9 +1,8 @@
 {
   "name": "@mbeaujar/push-sh",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "push": "./gitpush.js"
   },
   "repository": {
     "type": "git",
