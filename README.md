@@ -2,7 +2,7 @@
 
 Ajoute la commande `push` en CLI pour Git.
 
-![Description de l’image](./SINJ.jpg)
+![Description de l’image](https://raw.githubusercontent.com/mbeaujar/images/main/SINJ.jpg)
 
 ## Installation
 
